@@ -6,6 +6,6 @@ export default class passeport extends Documents {
     }
 
     operationSpecifique(){
-        console.log("Reliure!!!!!!!!!!!")
+        console.log("Reliure")
     }
 }
