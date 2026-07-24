@@ -1,4 +1,4 @@
-# PartielDesignPattern  
+# PartielDesignPattern  :smiley:
 
 **Designs Patterns à utiliser :**
 <br>
