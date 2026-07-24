@@ -2,8 +2,8 @@ import Documents from "./documents.js";
 import CPAM from "../CPAM.js";
 
 export default class carteVitale extends Documents {
-    constructor(){
-        super(this.item); 
+    constructor(item){
+        super(item); 
         this.CPAM = new CPAM();
     }
 
