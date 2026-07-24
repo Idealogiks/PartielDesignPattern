@@ -5,7 +5,7 @@ import passeport from "./passeport.js";
 export default class DocumentFactory {
     create(item) {
         switch (item.type.toLowerCase()) {
-            case 'carteVitale':
+            case 'cartevitale':
                 return new carteVitale(item);
             case 'id':
                 return new id(item);
