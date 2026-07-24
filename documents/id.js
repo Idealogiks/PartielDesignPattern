@@ -4,4 +4,8 @@ export default class id extends Documents {
     decouper() {
         console.log("Découpe au format carte");
     }
+
+    operationSpecifique() {
+        console.log("Plastification de la carte")
+    }
 }

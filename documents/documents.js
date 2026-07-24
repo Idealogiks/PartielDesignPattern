@@ -30,7 +30,10 @@ export default class Documents {
     }
 
     decouper(){
-        console.log("Découpage"); //att je sais plus, faudra que ça, ça soit réadapté en fonction du format (sous-classes) je verrai plus tard pfpfpfpfpfpfpfp
+        console.log("Découpage");
     }
-    
+
+    operationSpecifique(){
+        //Rien par défaut partce que c'est pas tjr nécessaire (genre Carte vitale ou d'autres dans l'avenir)
+    }
 }
