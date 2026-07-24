@@ -19,7 +19,7 @@ export default class CPAM {
         console.log("CPAM - Découpage"); 
     }
 
-    finalizeCard(){ // Euhhhhhh ça remplace operationSpecifique????? jm pas
+    finalizeCard(){
         console.log("CPAM - Carte finie"); 
     }
 }
